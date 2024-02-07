@@ -21,9 +21,9 @@ Never trust just your `(train|eval)/rewards` metrics alone, perform end-to-end t
 
 Here are some example DPO DreamGen V1 7B runs, using different learning rates:
 
-[!rewards](images/dpo-example1-rewards.webp)
-[!train-loss](images/dpo-example1-train-loss.webp)
-[!learning-rate](images/dpo-example1-learning-rate.webp)
+![rewards](images/dpo-example1-rewards.webp)
+![train-loss](images/dpo-example1-train-loss.webp)
+![learning-rate](images/dpo-example1-learning-rate.webp)
 
 Here are some example DPO Bagel runs:
 
